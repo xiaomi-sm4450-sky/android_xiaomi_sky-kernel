@@ -95,10 +95,10 @@ zsmalloc.ko
 lzo.ko
 lzo-rle.ko
 msm_show_resume_irq.ko
-mhi.ko
 mhi_dev_uci.ko
 mhi_dev_netdev.ko
 mhi_dev_dtr.ko
+mhi.ko
 phy-qcom-ufs-qmp-v4-lahaina.ko
 phy-qcom-ufs-qmp-v4-waipio.ko
 phy-qcom-ufs-qmp-v4-diwali.ko

@@ -35,6 +35,10 @@ alias of:N*T*Cqcom,msm8916-tsens qcom_tsens
 alias of:N*T*Cqcom,msm8916-tsensC* qcom_tsens
 alias of:N*T*Cqcom,msm8939-tsens qcom_tsens
 alias of:N*T*Cqcom,msm8939-tsensC* qcom_tsens
+alias of:N*T*Cqcom,msm8956-tsens qcom_tsens
+alias of:N*T*Cqcom,msm8956-tsensC* qcom_tsens
+alias of:N*T*Cqcom,msm8960-tsens qcom_tsens
+alias of:N*T*Cqcom,msm8960-tsensC* qcom_tsens
 alias of:N*T*Cqcom,msm8974-tsens qcom_tsens
 alias of:N*T*Cqcom,msm8974-tsensC* qcom_tsens
 alias of:N*T*Cqcom,msm8976-tsens qcom_tsens
