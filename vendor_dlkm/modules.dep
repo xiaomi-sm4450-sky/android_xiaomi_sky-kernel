@@ -80,7 +80,6 @@
 /vendor/lib/modules/qcom_lpm.ko:
 /vendor/lib/modules/millet_hs.ko: /vendor/lib/modules/millet_core.ko
 /vendor/lib/modules/gpr_dlkm.ko: /vendor/lib/modules/snd_event_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko /vendor/lib/modules/pdr_interface.ko /vendor/lib/modules/qmi_helpers.ko /vendor/lib/modules/rproc_qcom_common.ko /vendor/lib/modules/qcom_smd.ko /vendor/lib/modules/qcom_glink_smem.ko /vendor/lib/modules/qcom_glink.ko
-/vendor/lib/modules/asix.ko:
 /vendor/lib/modules/msm_performance.ko:
 /vendor/lib/modules/qcom_glink_smem.ko: /vendor/lib/modules/qcom_glink.ko
 /vendor/lib/modules/cdsprm.ko:
@@ -228,7 +227,6 @@
 /vendor/lib/modules/qcom_rimps.ko:
 /vendor/lib/modules/nvt_36672c.ko: /vendor/lib/modules/xiaomi_touch.ko /vendor/lib/modules/xiaomi_touch_notifier.ko /vendor/lib/modules/xiaomi_panel_notifier.ko /vendor/lib/modules/xiaomi_usb_touch_notifier.ko /vendor/lib/modules/hardware_info.ko
 /vendor/lib/modules/swr_haptics_dlkm.ko: /vendor/lib/modules/swr_dlkm.ko
-/vendor/lib/modules/ax88179_178a.ko:
 /vendor/lib/modules/bt_fm_slim.ko: /vendor/lib/modules/btpower.ko /vendor/lib/modules/slimbus.ko
 /vendor/lib/modules/fts_8720.ko: /vendor/lib/modules/xiaomi_touch.ko /vendor/lib/modules/xiaomi_touch_notifier.ko /vendor/lib/modules/xiaomi_panel_notifier.ko /vendor/lib/modules/xiaomi_usb_touch_notifier.ko /vendor/lib/modules/hardware_info.ko /vendor/lib/modules/xiaomi_headset_touch_notifier.ko
 /vendor/lib/modules/adsp_loader_dlkm.ko: /vendor/lib/modules/spf_core_dlkm.ko /vendor/lib/modules/gpr_dlkm.ko /vendor/lib/modules/snd_event_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko /vendor/lib/modules/pdr_interface.ko /vendor/lib/modules/qmi_helpers.ko /vendor/lib/modules/rproc_qcom_common.ko /vendor/lib/modules/qcom_smd.ko /vendor/lib/modules/qcom_glink_smem.ko /vendor/lib/modules/qcom_glink.ko

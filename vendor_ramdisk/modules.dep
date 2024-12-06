@@ -90,7 +90,6 @@
 /lib/modules/mhi_dev_netdev.ko: /lib/modules/mhi.ko /lib/modules/pci-msm-drv.ko /lib/modules/rproc_qcom_common.ko /lib/modules/qcom_smd.ko /lib/modules/qcom_glink_smem.ko /lib/modules/qcom_glink.ko /lib/modules/qcom_ipc_logging.ko /lib/modules/minidump.ko /lib/modules/smem.ko /lib/modules/clk-qcom.ko /lib/modules/gdsc-regulator.ko /lib/modules/proxy-consumer.ko /lib/modules/debug-regulator.ko
 /lib/modules/qcom_lpm.ko: /lib/modules/sched-walt.ko /lib/modules/gaea.ko /lib/modules/qcom-cpufreq-hw.ko
 /lib/modules/phy-qcom-ufs-qmp-v4-parrot.ko: /lib/modules/phy-qcom-ufs.ko
-/lib/modules/asix.ko:
 /lib/modules/qcom-cpufreq-hw.ko:
 /lib/modules/msm_performance.ko: /lib/modules/qcom-pmu-lib.ko /lib/modules/sched-walt.ko /lib/modules/gaea.ko /lib/modules/qcom-cpufreq-hw.ko
 /lib/modules/qcom_glink_smem.ko: /lib/modules/qcom_glink.ko /lib/modules/qcom_ipc_logging.ko /lib/modules/minidump.ko /lib/modules/smem.ko
@@ -252,7 +251,6 @@
 /lib/modules/cqhci.ko: /lib/modules/sdhci-msm-scaling.ko /lib/modules/crypto-qti-common.ko /lib/modules/crypto-qti-hwkm.ko /lib/modules/hwkm.ko /lib/modules/tmecom-intf.ko /lib/modules/qcom-scm.ko
 /lib/modules/regmap-spmi.ko:
 /lib/modules/sched-walt.ko: /lib/modules/gaea.ko /lib/modules/qcom-cpufreq-hw.ko
-/lib/modules/ax88179_178a.ko:
 /lib/modules/bt_fm_slim.ko: /lib/modules/btpower.ko /lib/modules/slimbus.ko
 /lib/modules/clk-rpmh.ko: /lib/modules/qcom_rpmh.ko /lib/modules/cmd-db.ko /lib/modules/qcom_ipc_logging.ko /lib/modules/minidump.ko /lib/modules/smem.ko
 /lib/modules/fts_8720.ko: /lib/modules/xiaomi_headset_touch_notifier.ko /lib/modules/xiaomi_touch.ko /lib/modules/xiaomi_touch_notifier.ko /lib/modules/xiaomi_panel_notifier.ko /lib/modules/xiaomi_usb_touch_notifier.ko /lib/modules/hardware_info.ko
