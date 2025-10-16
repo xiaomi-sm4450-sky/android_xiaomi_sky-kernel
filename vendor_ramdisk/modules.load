@@ -86,6 +86,7 @@ ufshcd-crypto-qti.ko
 tmecom-intf.ko
 bcl_pmic5.ko
 dispcc-ravelin.ko
+miev.ko
 mi_memory.ko
 simtray.ko
 trigger_panic.ko
